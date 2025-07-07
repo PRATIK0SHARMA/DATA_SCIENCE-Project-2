@@ -8,7 +8,8 @@
 
 ## How to Run
 1. Install dependencies:`pip install -r requirements.txt`.
-2. Open `NVDA Stock Data` in Jupyter.
+2. Open `with open("README.md", "a") as f:
+    f.write(f"\n NVDA Stock Data \n{html_table}")` in Jupyter.
 
 ## Tasks
 **Task 1: Analyze NVDA STOCK Dataset:**
