@@ -26,4 +26,4 @@
 -USing Plotly to make interactive dashboards for candle-sticks of NVDA stocks 
 
 ### NVDA Candlestick Chart
-![NVDA Chart]('docs/interactive_candlestick.html')
+![NVDA Chart]('interactive_candlestick.html')
